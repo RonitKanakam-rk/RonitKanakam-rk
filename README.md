@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronit Kumar Kanakam</h1>
 <h3 align="center">A passionate, self-motivated developer, up for any challenge and always looking for new ways to improve skills.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronitkanakam" alt="ronitkanakam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
